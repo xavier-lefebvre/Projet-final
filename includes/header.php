@@ -8,6 +8,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./assets/css/this-week.css">
     <style>
         
 
@@ -32,7 +33,7 @@
             <div class="collapse navbar-collapse justify-content-end align-center" id="main-nav">
                 <ul class="navbar-nav ">
                     <li class="nav-item">
-                        <a href="#topics" class="nav-link " >A L'AFFICHE</a>
+                        <a href="#topics" class="nav-link" >A L'AFFICHE</a>
                     </li>
                     <li class="nav-item">
                         <a href="#reviews" class="nav-link">HORAIRES</a>

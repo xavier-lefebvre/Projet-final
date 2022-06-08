@@ -1,20 +1,5 @@
-.navbar a {
-    color: white;
-    text-shadow: 1px 1px 2px black;
-}
-
-.navbar .dropdown-menu {
-    border: none;
-    background-color: transparent;
-}
-
-.navbar .navbar-toggler-icon {
-    filter: grayscale(1) invert(1);
-}
-
-.carousel-item img {
-    opacity: 0.5;
-}
+@import "./assets/css/navbar.css";
+@import "./assets/css/carousel.css";
 
 @media screen and (min-width: 768px){
     .navbar {

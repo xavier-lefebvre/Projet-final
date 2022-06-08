@@ -12,7 +12,7 @@
             <div class="carousel-item active">
 
                 <img src="./assets/img/top-gun.jpg" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block text-end">
+                <div class="carousel-caption d-none d-md-block text-end my-5">
                     <h1>First slide label</h1>
                     <h2>MARDI 24 MAI à 21H00</h2>
                 </div>
@@ -22,7 +22,7 @@
             <div class="carousel-item">
 
                 <img src="./assets/img/top-gun.jpg" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block text-end">
+                <div class="carousel-caption d-none d-md-block text-end my-5">
                     <h1>First slide label</h1>
                     <h2>MARDI 24 MAI à 21H00</h2>
                 </div>
@@ -31,7 +31,7 @@
             <div class="carousel-item">
 
                 <img src="./assets/img/top-gun.jpg" class="d-block w-100" alt="image-top-gun">
-                <div class="carousel-caption d-none d-md-block text-end">
+                <div class="carousel-caption d-none d-md-block text-end my-5">
                     <h1>TOP GUN</h1>
                     <h2>MARDI 24 MAI à 21H00</h2>
                 </div>
@@ -40,7 +40,7 @@
             <div class="carousel-item">
 
                 <img src="./assets/img/top-gun.jpg" class="d-block w-100" alt="...">
-                <div class="carousel-caption d-none d-md-block">
+                <div class="carousel-caption d-none d-md-block text-end my-5">
                     <h1>First slide label</h1>
                     <h2>MARDI 24 MAI à 21H00</h2>
                 </div>
